@@ -1,4 +1,4 @@
-# BlocksPuzzle
+# Blocks Puzzle
  This project takes a puzzle composed of blocks of different sizes.
  The goal is to have the puzzle match our desired outcome.
  The main solver program (Solver.java) takes an initial.txt and goal.txt as an input
